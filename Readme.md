@@ -41,7 +41,7 @@ Este é o backend para um sistema de gerenciamento de entregas, construído com 
 
 ```bash
 
-git  clone  <url-do-repositorio>
+git  clone  `https://github.com/felipeamodio/delivery-backend`
 
 cd  delivery-backend
 
